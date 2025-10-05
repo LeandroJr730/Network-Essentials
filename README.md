@@ -80,5 +80,7 @@ It demonstrated planning, budgeting, and technical design skills while ensuring 
 🏆 This project earned the highest score in the class and was recognized for its clear explanations and depth of understanding. During the presentation, I was able to confidently answer every question from classmates and the instructor.
 
 [FINAL_PROJECT_Presentation.pdf](FINAL_PROJECT_Presentation.pdf)
+
 [FINAL_PROJECT_Presentation.pdf](FINAL_PROJECT_Presentation.pdf)
+
 [FINAL_PROJECT_Presentation.pdf](FINAL_PROJECT_Presentation.pdf)

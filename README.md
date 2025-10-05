@@ -78,3 +78,7 @@ This project successfully presented a complete, realistic, and cost-effective IT
 It demonstrated planning, budgeting, and technical design skills while ensuring reliability, performance, and scalability for future growth.
 
 🏆 This project earned the highest score in the class and was recognized for its clear explanations and depth of understanding. During the presentation, I was able to confidently answer every question from classmates and the instructor.
+
+[FINAL_PROJECT_Presentation.pdf](FINAL_PROJECT_Presentation.pdf)
+[FINAL_PROJECT_Presentation.pdf](FINAL_PROJECT_Presentation.pdf)
+[FINAL_PROJECT_Presentation.pdf](FINAL_PROJECT_Presentation.pdf)
